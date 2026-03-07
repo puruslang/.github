@@ -20,13 +20,13 @@ jobs:
         with:
           card: pin
           options: username=otoneko1102&repo=purus
-          path: images/pin_purus.svg
+          path: profile/images/pin_purus.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
-          git add images/*.svg
+          git add profile/images/*.svg
           git commit -m "Update README images" || exit 0
           git push
