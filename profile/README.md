@@ -1,6 +1,6 @@
 Write code without the Shift key. Beautiful, simple, and easy-to-use.
 
-<div aligin="center">
+<div align="center">
 
 [![banner](https://www.purus.work/img/banner.png)](https://www.purus.work/)
 
