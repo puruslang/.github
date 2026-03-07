@@ -19,7 +19,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=otoneko1102&repo=purus
+          options: show_owner=true&username=otoneko1102&repo=purus
           path: profile/images/pin_purus.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
