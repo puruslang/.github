@@ -1,9 +1,13 @@
-Write code without the Shift key. Beautiful, simple, and easy-to-use.
-
 <div align="center">
 
-[![banner](https://www.purus.work/img/banner.png)](https://www.purus.work/)
+Write code without the Shift key. Beautiful, simple, and easy-to-use.
 
-[![Readme Card](./images/pin_purus.svg)](https://github.com/otoneko1102/purus)
+<a href="https://www.purus.work/">
+  <img src="https://www.purus.work/img/banner.png" width="400" alt="banner">
+</a>
+
+<a href="https://github.com/otoneko1102/purus">
+  <img src="./images/pin_purus.svg" width="400" alt="Readme Card">
+</a>
 
 </div>
