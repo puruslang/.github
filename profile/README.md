@@ -40,9 +40,7 @@ console.log[greeting]
 
 ---
 
-<div align="center">
-
-> **Note:** Purus v0.x was developed at [otnc/purus](https://github.com/otnc/purus) (archived).
+> [!Note:]
+>   
+> Purus v0.x was developed at [otnc/purus](https://github.com/otnc/purus) (archived).
 > Legacy docs: [old.purus.work](https://old.purus.work)
-
-</div>
