@@ -6,7 +6,7 @@
 
 ### Write code without the Shift key.
 
-**Purus** — _/ˈpuː.rus/_ means _pure_ in Latin — is a beautiful, simple, and easy-to-use language that compiles to JavaScript.
+Purus - _/ˈpuː.rus/_ _**means pure✨ in Latin**_ - is a beautiful, simple, and easy-to-use language. It compiles to _JavaScript_.
 
 </div>
 
