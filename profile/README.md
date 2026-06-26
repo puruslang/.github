@@ -8,10 +8,14 @@
 
 **Purus** — _/ˈpuː.rus/_ means _pure_ in Latin — is a beautiful, simple, and easy-to-use language that compiles to JavaScript.
 
+</div>
+
 ```purus
 const greeting be //;Hello, [name]!;//
 console.log[greeting]
 ```
+
+<div align="center">
 
 [![npm](https://img.shields.io/npm/v/purus)](https://www.npmjs.com/package/purus)
 [![npm downloads](https://img.shields.io/npm/dm/purus)](https://www.npmjs.com/package/purus)
